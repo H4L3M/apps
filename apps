@@ -1,9 +1,29 @@
 {
-"apps": [
-{
-"logo": "gox8s3D",
-"name": "Morocco Radio",
-"url": "Morocco-Radio.apk"
-}
-]
+  "apps": [
+    {
+      "logo": "gox8s3D",
+      "name": "Morocco Radio",
+      "url": "Morocco-Radio.apk"
+    },
+    {
+      "logo": "gox8s3D",
+      "name": "Morocco Radio",
+      "url": "Morocco-Radio.apk"
+    },
+    {
+      "logo": "gox8s3D",
+      "name": "Morocco Radio",
+      "url": "Morocco-Radio.apk"
+    },
+    {
+      "logo": "gox8s3D",
+      "name": "Morocco Radio",
+      "url": "Morocco-Radio.apk"
+    },
+    {
+      "logo": "gox8s3D",
+      "name": "Morocco Radio",
+      "url": "Morocco-Radio.apk"
+    }
+  ]
 }
